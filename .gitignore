@@ -39,13 +39,9 @@ env/
 .env.local
 
 
-
-# OS-generated files
 .DS_Store
 Thumbs.db
 
-# VSCode settings
 .vscode/
 
-# Upload folder (used for storing user-uploaded files)
-upload/
+uploads
